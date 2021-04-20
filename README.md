@@ -6,7 +6,8 @@ Skills: REACT NATIVE / REACT / JS / HTML / CSS / TS
 - 🔭 I’m currently working on this page. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/joaohitallo)  [<img src='./iconlinkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/joão-hitallo-castro-8b2222176//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jhitallo/)  
+[<img src='./iconlinkedin.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/joão-hitallo-castro-8b2222176//)  
+[<img src='./iconinsta.png' alt='instagram' height='40'>](https://www.instagram.com/jhitallo/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaohitallo)](https://github.com/anuraghazra/github-readme-stats)
 
