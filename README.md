@@ -2,6 +2,9 @@
 Web front-end developer - Mobile developer
 
 Skills: REACT NATIVE / REACT / JS / HTML / CSS / TS
+[![ReactNative Badge](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
+[![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]
+
 
 ### - 🔭 I’m currently working on this page. 
  
