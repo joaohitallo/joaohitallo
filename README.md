@@ -15,9 +15,8 @@ Atualmente sou formando de Sistemas de Informação na Universidade Federal do S
 ### Contato:
  
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaohitallo/) 
-[![Linkedin Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaohitallo97@gmail.com) 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?joaohitallo=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?joaohitallo=anuraghazra&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaohitallo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaohitallo&show_icons=true&theme=buefy)
 
