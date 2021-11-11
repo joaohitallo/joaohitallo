@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is João Hitallo
-Web front-end developer - Mobile developer
+Atualmente sou formando de Sistemas de Informação na Universidade Federal do Sul e Sudeste do Pará, sou desenvolvedor Front-End e Mobile, utilizando React js e React Native.
 
 Skills: REACT NATIVE / REACT / JS / HTML / CSS / TS
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
