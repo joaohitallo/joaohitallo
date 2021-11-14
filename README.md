@@ -1,7 +1,7 @@
-### Hi there 👋, my name is João Hitallo
+### Olá 👋, meu nome é João Hitallo
 Atualmente sou formando de Sistemas de Informação na Universidade Federal do Sul e Sudeste do Pará, sou desenvolvedor Front-End e Mobile, utilizando React js e React Native.
 
-### Skills:
+### Tecnologias:
 ![HTML Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS Badge](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -10,7 +10,7 @@ Atualmente sou formando de Sistemas de Informação na Universidade Federal do S
 ![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
 
-### - 🔭 I’m currently working on this page. 
+
 
 ### Contato:
  
