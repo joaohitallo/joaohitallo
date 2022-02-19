@@ -20,3 +20,4 @@ Atualmente sou formando de Sistemas de Informação na Universidade Federal do S
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaohitallo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaohitallo&show_icons=true&theme=buefy)
 
+![Snake animation](https://github.com/joaohitallo/joaohitallo/blob/output/github-contribution-grid-snake.svg)
